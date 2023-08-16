@@ -1,0 +1,9 @@
+first initialise the project -> npm init
+then install express for the project -> npm i express
+
+install nodemon -> npm i nodemon
+run it -> npx nodemon js_file.js (js filename)
+
+nodemon is a shortcut to run server if there are lot of changes in js file
+You dont need to ctrl+C to terminate and run node js_file.js again and again
+Instead use nodemon

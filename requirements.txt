@@ -1,0 +1,36 @@
+Rrequirement for our project
+
+const { application } = require("express")
+
+We are a book management company
+
+Books
+ISBN, title, publication date, language, num page, author[], category[]
+
+Authors
+id, name, books[]
+
+Publications
+id, name, books[]
+
+We have to design and code an API over this
+
+1.Books
+We need an API :-
+To get all the books - Done
+To get specific book - Done
+To get a list of books based on category - Done
+To get a list of books based on languages - Done
+
+2. Authors
+
+We need an API :-
+To get all the Authors - Done
+To get a specific author - Done
+To get a list of authors based on books - Done
+
+3. Publications
+We need an API :-
+To get all the Publications - Done
+To get a specific publication - Done
+To get a list of publications based on a book - Done

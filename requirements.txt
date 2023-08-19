@@ -34,3 +34,15 @@ We need an API :-
 To get all the Publications - Done
 To get a specific publication - Done
 To get a list of publications based on a book - Done
+
+POST REQUEST
+1. Add new book - Done
+2. Add new publication - Done
+3. Add new author - Done
+
+PUT REQUEST
+1. Update book details if author is changed 
+
+DELETE REQUEST
+1. Delete a book - Done
+2. Delete author from book and related book from author - Done

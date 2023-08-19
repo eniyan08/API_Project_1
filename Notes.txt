@@ -7,3 +7,19 @@ run it -> npx nodemon js_file.js (js filename)
 nodemon is a shortcut to run server if there are lot of changes in js file
 You dont need to ctrl+C to terminate and run node js_file.js again and again
 Instead use nodemon
+
+
+--------------------------------------------------------------
+
+
+IMPORTANT - HOW TO COMMIT A GIT REPOSITORY
+
+FIRST CREATE A REPOSITORY
+Open terminal
+
+1.git init
+2.git add .
+3.git status
+4.git commit -m "your message"
+5.git remote add origin 'your_url_name'
+6.git push -u origin master

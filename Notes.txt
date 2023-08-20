@@ -29,3 +29,21 @@ If you need to update an existing REPOSITORY
 2.git status
 3.git commit -m "your message"
 4.git push
+
+What is a Database ?
+
+    Database is a collection of meaningful data that is stored and organised 
+according to some standard
+
+What is MongoDB ?
+
+    MongoDB is a document-based non-relational database management system.
+It's also called an object-based system. It was designed to supplant 
+the MySQL structure as an easier way to work with data. 
+
+Schema - Blueprint of how data has to be constructed
+MongoDB is schemaless
+Mongoose has schema
+Mongoose allows users to conveniently create and manage data in MongoDB
+Mongoose checks validation, relationship with other data
+Schema -> Model -> use them
